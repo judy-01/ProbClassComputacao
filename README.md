@@ -1,5 +1,5 @@
 # Problemas Clássicos de Ciência da Computação com JavaScript
-Portes em JavaScript dos exemplos da série "Problemas Clássicos de Ciência da Computação" de David Kopec
+ Da série "Problemas Clássicos de Ciência da Computação" de David Kopec
 
 ## Executando Exemplos
 No console: Digite `node {nome-do-arquivo}.js`
